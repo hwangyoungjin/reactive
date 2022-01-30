@@ -15,3 +15,4 @@
 ```text
 Message: No appropriate protocol (protocol is disabled or cipher suites are inappropriate)
 ```
+2. [mysql timezone 설정](dev.miku.r2dbc.mysql.MySqlConnection     : The server timezone is <KST> that's unknown, trying to use system default timezone)

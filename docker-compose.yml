@@ -9,8 +9,6 @@ services:
       - ./db/conf.d:/etc/mysql/conf.d
       - ./db/data:/var/lib/mysql
     env_file: .env
-    environment:
-      TZ: Asia/Seoul
     platform: linux/x86_64
     networks:
       - backend
