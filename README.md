@@ -3,12 +3,13 @@
 ---
 ### Env
 ```text
-- jdk 17
+- jdk 8
 - kotlin
 - spring 2.6.3
 - spring reactive web
 - r2dbc
 - mysql 5.7
+- coroutine
 ```
 ### Issue
 1. [해결](https://github.com/mirromutth/r2dbc-mysql/issues/182)
